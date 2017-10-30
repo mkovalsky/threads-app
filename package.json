@@ -1,0 +1,23 @@
+{
+  "name": "threads-app",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^22.0.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "jest-expo": "^22.0.1"
+  }
+}
